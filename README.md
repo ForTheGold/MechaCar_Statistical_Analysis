@@ -61,3 +61,10 @@ The next step would be to design a study to compare MechaCar with the competitio
 MechaCar could test out how they measure up against the competition by creating a statistical test.  The null hypothesis would be that MechaCar cars have the same or worse efficiency as competitors, and the alternative hypothesis would be that we are better.  We could use the MPG data that we already have and would need to collect further MPG data of competitors we are trying to beat out.  We would be looking for a positive delta change showing that MechaCar is more efficient than competitors.
 
 MechaCar should look to their shorter cars with low ground clearance as we have already shown that these have maximum fuel efficiency.  
+
+## Tools
+
+ * R
+ * R Studio
+ * Statistics
+ * Multiple Regression Analysis
